@@ -1,6 +1,6 @@
 module github.com/mclegends/daemon
 
-go 1.21
+go 1.23
 
 require (
 	github.com/docker/docker v24.0.7+incompatible
